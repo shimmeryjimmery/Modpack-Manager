@@ -1,2 +1,2 @@
-# Modpack-Manager
-Used to optimize creating Minecraft modpacks.
+# mod-manager
+modding
